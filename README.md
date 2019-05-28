@@ -1,2 +1,2 @@
 # AutoMail
-Automatic email sending plugin
+Email App
