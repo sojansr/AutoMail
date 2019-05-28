@@ -6,7 +6,6 @@ using System.Web.Mvc;
 
 namespace Core_API.Controllers
 {
-    //adding initial commit process
     public class HomeController : Controller
     {
         public ActionResult Index()
